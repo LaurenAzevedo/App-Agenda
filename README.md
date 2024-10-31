@@ -88,7 +88,9 @@ Na tela principal pós cadastro, o usuário visualiza os cadastros e possui a op
 
 <img src="https://github.com/user-attachments/assets/e7f4603b-e15b-4a98-918f-fee6dbb9c0ca" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://github.com/LaurenAzevedo/App-Agenda/blob/main/app-agenda.apk"> Download APK </a>
  
 # 📄 Licença
 
